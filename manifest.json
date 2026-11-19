@@ -1,0 +1,132 @@
+{
+  "name": "vibedesign-skills",
+  "version": "2026.11.19",
+  "released": "2026.11.19",
+  "repository": "https://github.com/kubai087/vibedesign-skills",
+  "skills": [
+    {
+      "name": "kubai-design-tips",
+      "tips": 20
+    },
+    {
+      "name": "kubai-skeuomorphic-buttons",
+      "issue": "001",
+      "tip": "Skeuomorphic buttons",
+      "title": "有按压反馈的拟物按钮"
+    },
+    {
+      "name": "kubai-cascade-menu",
+      "issue": "002",
+      "tip": "Cascade menu",
+      "title": "级联菜单的安全区域与延时"
+    },
+    {
+      "name": "kubai-ascii-dither",
+      "issue": "003",
+      "tip": "ASCII and dither",
+      "title": "ASCII与像素抖色效果"
+    },
+    {
+      "name": "kubai-continuous-corners",
+      "issue": "004",
+      "tip": "Continuous corners",
+      "title": "递进式圆角与连续曲率圆角"
+    },
+    {
+      "name": "kubai-drag-ripple",
+      "issue": "005",
+      "tip": "Drag to reorder",
+      "title": "带避让动效的拖拽排序"
+    },
+    {
+      "name": "kubai-book-cards",
+      "issue": "006",
+      "tip": "Book cards",
+      "title": "悬停时像书一样翻开的卡片"
+    },
+    {
+      "name": "kubai-type-switches",
+      "issue": "007",
+      "tip": "Type switches",
+      "title": "中英文排版的CSS设置"
+    },
+    {
+      "name": "kubai-wiki-layout",
+      "issue": "008",
+      "tip": "Wiki layout",
+      "title": "兼顾PC和移动端的Wiki布局"
+    },
+    {
+      "name": "kubai-overlays",
+      "issue": "009",
+      "tip": "Overlays",
+      "title": "浮层组件的选择规则"
+    },
+    {
+      "name": "kubai-liquid-glass",
+      "issue": "010",
+      "tip": "Liquid glass",
+      "title": "液态玻璃材质"
+    },
+    {
+      "name": "kubai-easing-curves",
+      "issue": "011",
+      "tip": "Easing curves",
+      "title": "按场景选择缓动曲线"
+    },
+    {
+      "name": "kubai-message-bubbles",
+      "issue": "012",
+      "tip": "Message bubbles",
+      "title": "消息气泡的材质与动效"
+    },
+    {
+      "name": "kubai-shockwave-glow",
+      "issue": "013",
+      "tip": "Shockwave glow",
+      "title": "冲击波光环效果"
+    },
+    {
+      "name": "kubai-card-delete",
+      "issue": "014",
+      "tip": "Card delete",
+      "title": "卡片删除的四种消失效果"
+    },
+    {
+      "name": "kubai-ui-continuity",
+      "issue": "015",
+      "tip": "UI continuity",
+      "title": "界面连续性诊断与改造"
+    },
+    {
+      "name": "kubai-toast-or-notification",
+      "issue": "016",
+      "tip": "Toast or notification",
+      "title": "Toast 与通知的选择与改造"
+    },
+    {
+      "name": "kubai-loading-states",
+      "issue": "017",
+      "tip": "Loading states",
+      "title": "加载状态的诊断与改造"
+    },
+    {
+      "name": "kubai-holo-card",
+      "issue": "018",
+      "tip": "Holo card",
+      "title": "会倾斜和翻转的镭射卡片"
+    },
+    {
+      "name": "kubai-scroll-cards",
+      "issue": "019",
+      "tip": "Scroll cards",
+      "title": "滚动驱动的五种卡片交互"
+    },
+    {
+      "name": "kubai-choice-controls",
+      "issue": "020",
+      "tip": "Choice controls",
+      "title": "选择控件的诊断与改造"
+    }
+  ]
+}
