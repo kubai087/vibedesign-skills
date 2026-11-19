@@ -4,6 +4,12 @@ Every release of the Vibe Design Tips Skills. To update, see [INSTALL.md](INSTAL
 
 每次发布的改动。更新方法见 [INSTALL.md](INSTALL.md#update)。
 
+## 2026.11.19.2
+
+Name a tip by its number or Chinese name, and three notes from posts outside the series: popover origin, design system pass and empty states. 可按期号或中文名指定某一期，并新增三条系列之外的笔记：弹出层从触发处展开、去 AI 味的设计系统检查、与功能对应的空状态插图。
+
+- Updated `kubai-design-tips`: SKILL.md, catalog/components.md, catalog/effects.md, catalog/feedback.md, catalog/index.md, catalog/motion.md, catalog/type-layout.md, notes/design-system-pass.md, notes/empty-states.md, notes/popover-origin.md
+
 ## 2026.11.19
 
 First release on GitHub: kubai-design-tips with every published tip, and one Skill per tip. 首次在 GitHub 发布。

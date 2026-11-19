@@ -2,7 +2,7 @@
 
 Agent Skills from [Vibe Design Tips](https://vibedesign.tips), Kubai's series "999 tips to make your vibe-coded product feel crafted". Each tip is a design rule or an effect with a live demo; the Skills let Claude Code, Codex, Cursor and other AI coding tools apply them to your product.
 
-Version 2026.11.19. See [CHANGELOG.md](CHANGELOG.md) for what changed.
+Version 2026.11.19.2. See [CHANGELOG.md](CHANGELOG.md) for what changed.
 
 [中文说明](#中文)
 
@@ -22,6 +22,18 @@ ln -sfn ~/.vibedesign-skills/skills/kubai-design-tips ~/.claude/skills/kubai-des
 ```
 
 Without git, download [vibedesign-skills.zip](https://github.com/kubai087/vibedesign-skills/releases/latest/download/vibedesign-skills.zip) (also at [vibedesign.tips](https://vibedesign.tips/downloads/vibedesign-skills.zip)). [INSTALL.md](INSTALL.md) has every step.
+
+## Use
+
+Review a product, or name one tip by its number, English name or Chinese name. In Claude Code:
+
+```text
+/kubai-design-tips review the UI of this project
+/kubai-design-tips 019
+/kubai-design-tips add scroll cards to the landing page
+```
+
+In other tools, mention `kubai-design-tips` and the tip in your request.
 
 ## Update
 
@@ -67,6 +79,8 @@ git -C ~/.vibedesign-skills pull --ff-only
 ```text
 按 https://raw.githubusercontent.com/kubai087/vibedesign-skills/main/INSTALL.md 里的步骤安装 kubai-design-tips 这个 Skill。如果打不开 GitHub，改用 https://vibedesign.tips/downloads/INSTALL.md
 ```
+
+**使用**：检查整个产品，或按期号、英文名、中文名指定某一期。在 Claude Code 里输入 `/kubai-design-tips 检查这个项目的界面`、`/kubai-design-tips 019` 或 `/kubai-design-tips 给首页加滚动卡片`；在其他工具里，在需求中写明 `kubai-design-tips` 和要用的那一期即可。
 
 **更新**：对 AI 编程工具说"更新 design tips Skill"，或者运行 `git -C ~/.vibedesign-skills pull --ff-only`。
 

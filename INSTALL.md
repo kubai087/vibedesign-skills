@@ -46,6 +46,13 @@ If the user works with more than one AI tool, ask whether to link it for the oth
 
 Read `VERSION` in the installed folder. Tell the user the version, where the files are and where you linked them, and that asking you to "update the design tips Skill" later updates it. If your tool loads new Skills only in a new session, say so.
 
+Then tell the user how to use it, in their language, with examples in your tool's own form (in Claude Code, `/kubai-design-tips` starts the Skill and the words after it go with it):
+
+- To review a product: `/kubai-design-tips review the UI of this project`.
+- To apply one tip, name it by number, English name or Chinese name: `/kubai-design-tips 019`, `/kubai-design-tips add scroll cards to the landing page`, `/kubai-design-tips 给首页加滚动卡片`.
+
+Every tip is in this one Skill, so the user does not need a Skill per tip.
+
 ## Update
 
 1. Note the version in `~/.vibedesign-skills/skills/kubai-design-tips/VERSION`.

@@ -2,6 +2,7 @@
 
 ## 003 ASCII and dither (effect)
 
+- Also called: ASCII与像素抖色效果, ASCII 字符画, 像素抖色
 - Applies: One named image or video on a login page, site hero or card cover.
 - Signals: Suggest it only when the user names an asset, or when the product has a hero visual.
 - Skip: Content images people need to see clearly.
@@ -10,6 +11,7 @@
 
 ## 013 Shockwave glow (effect)
 
+- Also called: 冲击波光环效果, 冲击波, 光环
 - Applies: Products with an AI input or command bar: admin panels, editors, browsers.
 - Signals: An AI prompt box, command palette or assistant panel.
 - Skip: Products without an AI entry point.
@@ -18,6 +20,7 @@
 
 ## 018 Holo card (effect)
 
+- Also called: 会倾斜和翻转的镭射卡片, 镭射卡片, 闪卡
 - Applies: One card per screen that stands for status or ownership: member and loyalty cards, tickets and passes, badges and achievements, profile or collectible cards, plan tiers.
 - Signals: A membership, tier or ticket screen; a wallet pass or 'Add to Wallet'; a badge, achievement or rarity; a profile or trading card; a premium plan tile.
 - Skip: Ordinary cards in lists and feeds, dense data screens, and anything people scan quickly.
