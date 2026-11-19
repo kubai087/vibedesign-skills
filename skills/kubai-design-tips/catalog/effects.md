@@ -26,3 +26,12 @@
 - Skip: Ordinary cards in lists and feeds, dense data screens, and anything people scan quickly.
 - Demo: https://vibedesign.tips/018-holo-card/
 - Text: tips/018-holo-card.md (17.8k characters)
+
+## 021 Ring cards (effect)
+
+- Also called: 景深环形卡片与流体渐变, 环形卡片, 景深卡片, 3D 轮播, 流体渐变, 色散
+- Applies: Showcases people browse rather than scan: galleries and portfolios, collections, music and media libraries, cover and product pickers, landing and onboarding heroes.
+- Signals: A horizontal carousel or cover flow of cards or images; a gallery, album or collection grid; Swiper, Embla, Splide or a hand-built slider; a hero with a row of featured items; existing WebGL, three.js or shader code.
+- Skip: Dense lists and tables, text-heavy cards, forms and settings, screens people scan or search quickly, and platforms with no GPU drawing.
+- Demo: https://vibedesign.tips/021-ring-cards/
+- Text: tips/021-ring-cards.md (12.3k characters)

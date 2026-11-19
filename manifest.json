@@ -1,12 +1,12 @@
 {
   "name": "vibedesign-skills",
-  "version": "2026.11.19.2",
-  "released": "2026.11.19",
+  "version": "2026.11.20",
+  "released": "2026.11.20",
   "repository": "https://github.com/kubai087/vibedesign-skills",
   "skills": [
     {
       "name": "kubai-design-tips",
-      "tips": 20
+      "tips": 21
     },
     {
       "name": "kubai-skeuomorphic-buttons",
@@ -127,6 +127,12 @@
       "issue": "020",
       "tip": "Choice controls",
       "title": "选择控件的诊断与改造"
+    },
+    {
+      "name": "kubai-ring-cards",
+      "issue": "021",
+      "tip": "Ring cards",
+      "title": "景深环形卡片与流体渐变"
     }
   ]
 }

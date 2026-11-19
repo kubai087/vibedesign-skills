@@ -4,6 +4,13 @@ Every release of the Vibe Design Tips Skills. To update, see [INSTALL.md](INSTAL
 
 每次发布的改动。更新方法见 [INSTALL.md](INSTALL.md#update)。
 
+## 2026.11.20
+
+Add 021 Ring cards: a ring of cards seen from inside, with a glass rim and color fringes, or from outside, with depth of field; flowing fluid gradients that turn over to photos; and a slider panel for the key values.
+
+- Added `kubai-ring-cards` (021 Ring cards)
+- Updated `kubai-design-tips`: SKILL.md, catalog/effects.md, catalog/index.md, tips/021-ring-cards.md
+
 ## 2026.11.19.2
 
 Name a tip by its number or Chinese name, and three notes from posts outside the series: popover origin, design system pass and empty states. 可按期号或中文名指定某一期，并新增三条系列之外的笔记：弹出层从触发处展开、去 AI 味的设计系统检查、与功能对应的空状态插图。

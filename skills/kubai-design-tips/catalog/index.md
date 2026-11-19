@@ -7,7 +7,7 @@ Kinds: a rule is a judgment most products need, so check it in every review; an 
 - catalog/motion.md (Motion and transitions). rules: 005 Drag to reorder, 011 Easing curves, 015 UI continuity, Note: Popover origin; effects: 006 Book cards, 014 Card delete, 019 Scroll cards.
 - catalog/components.md (Components and surfaces). rules: 002 Cascade menu, 004 Continuous corners, 020 Choice controls, Note: Design system pass; effects: 001 Skeuomorphic buttons, 010 Liquid glass, 012 Message bubbles.
 - catalog/type-layout.md (Type and layout). rules: 007 Type switches, 008 Wiki layout.
-- catalog/effects.md (Visual effects). effects: 003 ASCII and dither, 013 Shockwave glow, 018 Holo card.
+- catalog/effects.md (Visual effects). effects: 003 ASCII and dither, 013 Shockwave glow, 018 Holo card, 021 Ring cards.
 
 ## Names
 
@@ -33,6 +33,7 @@ Each tip by number and English name (notes, outside the numbered tips, come last
 - 018 Holo card: 会倾斜和翻转的镭射卡片, 镭射卡片, 闪卡 (catalog/effects.md)
 - 019 Scroll cards: 滚动驱动的五种卡片交互, 滚动卡片, 层叠卡片, 卡组飞出, 横向展廊, 封面轮播, 图片展开 (catalog/motion.md)
 - 020 Choice controls: 选择控件的诊断与改造, 选择控件, 开关, 下拉选择 (catalog/components.md)
+- 021 Ring cards: 景深环形卡片与流体渐变, 环形卡片, 景深卡片, 3D 轮播, 流体渐变, 色散 (catalog/effects.md)
 - Note: Design system pass: 去 AI 味的设计系统检查, 设计系统, 去 AI 味, AI Slop, Design Token, 间距体系, 精简文案 (catalog/components.md)
 - Note: Empty states: 与功能对应的空状态插图, 空状态, 空白页, 缺省页, empty state (catalog/feedback.md)
 - Note: Popover origin: 弹出层从触发处展开, 弹出层锚点, 下拉菜单锚点, transform-origin (catalog/motion.md)

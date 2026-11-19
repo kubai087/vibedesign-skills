@@ -2,7 +2,7 @@
 
 Agent Skills from [Vibe Design Tips](https://vibedesign.tips), Kubai's series "999 tips to make your vibe-coded product feel crafted". Each tip is a design rule or an effect with a live demo; the Skills let Claude Code, Codex, Cursor and other AI coding tools apply them to your product.
 
-Version 2026.11.19.2. See [CHANGELOG.md](CHANGELOG.md) for what changed.
+Version 2026.11.20. See [CHANGELOG.md](CHANGELOG.md) for what changed.
 
 [中文说明](#中文)
 
@@ -69,6 +69,7 @@ git -C ~/.vibedesign-skills pull --ff-only
 | 018 | `kubai-holo-card` | Holo card | 会倾斜和翻转的镭射卡片 | [Demo](https://vibedesign.tips/018-holo-card/) |
 | 019 | `kubai-scroll-cards` | Scroll cards | 滚动驱动的五种卡片交互 | [Demo](https://vibedesign.tips/019-scroll-cards/) |
 | 020 | `kubai-choice-controls` | Choice controls | 选择控件的诊断与改造 | [Demo](https://vibedesign.tips/020-choice-controls/) |
+| 021 | `kubai-ring-cards` | Ring cards | 景深环形卡片与流体渐变 | [Demo](https://vibedesign.tips/021-ring-cards/) |
 
 ## 中文
 
