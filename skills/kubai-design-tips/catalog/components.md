@@ -7,7 +7,7 @@
 - Signals: SubMenu, DropdownMenu.Sub or other submenu components; children opened on mouseenter with no delay; submenus that close on a diagonal move toward them.
 - Skip: No nested menus; touch-only products.
 - Demo: https://vibedesign.tips/002-cascade-menu/
-- Text: tips/002-cascade-menu.md (5.1k characters)
+- Text: tips/002-cascade-menu.md (6.3k characters)
 
 ## 004 Continuous corners (rule)
 

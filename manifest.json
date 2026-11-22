@@ -1,12 +1,12 @@
 {
   "name": "vibedesign-skills",
-  "version": "2026.11.20",
-  "released": "2026.11.20",
+  "version": "2026.11.22",
+  "released": "2026.11.22",
   "repository": "https://github.com/kubai087/vibedesign-skills",
   "skills": [
     {
       "name": "kubai-design-tips",
-      "tips": 21
+      "tips": 22
     },
     {
       "name": "kubai-skeuomorphic-buttons",
@@ -133,6 +133,12 @@
       "issue": "021",
       "tip": "Ring cards",
       "title": "景深环形卡片与流体渐变"
+    },
+    {
+      "name": "kubai-empty-states",
+      "issue": "022",
+      "tip": "Empty states",
+      "title": "空状态的诊断与改造"
     }
   ]
 }

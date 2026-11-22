@@ -4,6 +4,14 @@ Every release of the Vibe Design Tips Skills. To update, see [INSTALL.md](INSTAL
 
 每次发布的改动。更新方法见 [INSTALL.md](INSTALL.md#update)。
 
+## 2026.11.22
+
+- Added `kubai-empty-states` (022 Empty states)
+- Updated `kubai-design-tips`: SKILL.md, catalog/components.md, catalog/feedback.md, catalog/index.md, notes/empty-states.md, tips/002-cascade-menu.md, tips/009-overlays.md, tips/016-toast-or-notification.md, tips/022-empty-states.md
+- Updated `kubai-cascade-menu` (002 Cascade menu): SKILL.md
+- Updated `kubai-overlays` (009 Overlays): SKILL.md
+- Updated `kubai-toast-or-notification` (016 Toast or notification): SKILL.md
+
 ## 2026.11.20
 
 Add 021 Ring cards: a ring of cards seen from inside, with a glass rim and color fringes, or from outside, with depth of field; flowing fluid gradients that turn over to photos; and a slider panel for the key values.
