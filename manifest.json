@@ -1,12 +1,12 @@
 {
   "name": "vibedesign-skills",
-  "version": "2026.11.22",
-  "released": "2026.11.22",
+  "version": "2026.11.24",
+  "released": "2026.11.24",
   "repository": "https://github.com/kubai087/vibedesign-skills",
   "skills": [
     {
       "name": "kubai-design-tips",
-      "tips": 22
+      "tips": 23
     },
     {
       "name": "kubai-skeuomorphic-buttons",
@@ -139,6 +139,12 @@
       "issue": "022",
       "tip": "Empty states",
       "title": "空状态的诊断与改造"
+    },
+    {
+      "name": "kubai-mobile-web",
+      "issue": "023",
+      "tip": "Mobile web pages",
+      "title": "让网页在手机上更好用"
     }
   ]
 }

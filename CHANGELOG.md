@@ -4,6 +4,13 @@ Every release of the Vibe Design Tips Skills. To update, see [INSTALL.md](INSTAL
 
 每次发布的改动。更新方法见 [INSTALL.md](INSTALL.md#update)。
 
+## 2026.11.24
+
+Add tip 023: making web pages work well on phones (PWA, tap highlight, a tab bar at the foot, Safari's status bar and toolbar)
+
+- Added `kubai-mobile-web` (023 Mobile web pages)
+- Updated `kubai-design-tips`: SKILL.md, catalog/components.md, catalog/index.md, tips/023-mobile-web.md
+
 ## 2026.11.22
 
 - Added `kubai-empty-states` (022 Empty states)
