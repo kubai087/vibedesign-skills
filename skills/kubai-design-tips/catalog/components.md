@@ -34,7 +34,7 @@
 - Signals: No web app manifest or a blurry, small app icon; :hover rules outside @media (hover: hover); no -webkit-tap-highlight-color; main tabs across the top of a phone layout; previous and next links only at the end of an article; bottom bars that never make way while scrolling; transparent full-screen fixed layers; scrims or overlays fixed to the window down to its foot; translucent fixed bars at the foot; full-screen fixed sheets that scroll inside themselves; reliance on meta theme-color for Safari.
 - Skip: Native apps, and web pages never opened on touch screens. Bars that must stay whole (a checkout total, a composer, a player) keep their place.
 - Demo: https://vibedesign.tips/023-mobile-web/
-- Text: tips/023-mobile-web.md (17.2k characters)
+- Text: tips/023-mobile-web.md (8.8k characters)
 
 ## Note: Design system pass (rule)
 

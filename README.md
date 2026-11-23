@@ -2,7 +2,7 @@
 
 Agent Skills from [Vibe Design Tips](https://vibedesign.tips), Kubai's series "999 tips to make your vibe-coded product feel crafted". Each tip is a design rule or an effect with a live demo; the Skills let Claude Code, Codex, Cursor and other AI coding tools apply them to your product.
 
-Version 2026.11.24. See [CHANGELOG.md](CHANGELOG.md) for what changed.
+Version 2026.11.24.2. See [CHANGELOG.md](CHANGELOG.md) for what changed.
 
 [中文说明](#中文)
 
