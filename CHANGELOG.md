@@ -4,6 +4,13 @@ Every release of the Vibe Design Tips Skills. To update, see [INSTALL.md](INSTAL
 
 每次发布的改动。更新方法见 [INSTALL.md](INSTALL.md#update)。
 
+## 2026.11.24.3
+
+Tip 023: the full prompt again, with a shorter description
+
+- Updated `kubai-design-tips`: catalog/components.md, tips/023-mobile-web.md
+- Updated `kubai-mobile-web` (023 Mobile web pages): SKILL.md
+
 ## 2026.11.24.2
 
 Tip 023: a shorter prompt, under 10,000 characters
