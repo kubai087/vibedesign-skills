@@ -7,7 +7,7 @@ Kinds: a rule is a judgment most products need, so check it in every review; an 
 - catalog/motion.md (Motion and transitions). rules: 005 Drag to reorder, 011 Easing curves, 015 UI continuity, Note: Popover origin; effects: 006 Book cards, 014 Card delete, 019 Scroll cards.
 - catalog/components.md (Components and surfaces). rules: 002 Cascade menu, 004 Continuous corners, 020 Choice controls, 023 Mobile web pages, Note: Design system pass; effects: 001 Skeuomorphic buttons, 010 Liquid glass, 012 Message bubbles.
 - catalog/type-layout.md (Type and layout). rules: 007 Type switches, 008 Wiki layout.
-- catalog/effects.md (Visual effects). effects: 003 ASCII and dither, 013 Shockwave glow, 018 Holo card, 021 Ring cards.
+- catalog/effects.md (Visual effects). effects: 003 ASCII and dither, 013 Shockwave glow, 018 Holo card, 021 Ring cards, 024 Image Loading.
 
 ## Names
 
@@ -36,5 +36,6 @@ Each tip by number and English name (notes, outside the numbered tips, come last
 - 021 Ring cards: 景深环形卡片与流体渐变, 环形卡片, 景深卡片, 3D 轮播, 流体渐变, 色散 (catalog/effects.md)
 - 022 Empty states: 空状态的诊断与改造, 空状态, 空白页, 缺省页 (catalog/feedback.md)
 - 023 Mobile web pages: 让网页在手机上更好用, 移动端适配, 手机适配, PWA, 底部 Tab, 点击高亮, Safari 状态栏 (catalog/components.md)
+- 024 Image Loading: 生图点阵等待与出图, 生图加载, 图片加载, 点阵 loading, 出图动画, 图片转场, AI 生图等待 (catalog/effects.md)
 - Note: Design system pass: 去 AI 味的设计系统检查, 设计系统, 去 AI 味, AI Slop, Design Token, 间距体系, 精简文案 (catalog/components.md)
 - Note: Popover origin: 弹出层从触发处展开, 弹出层锚点, 下拉菜单锚点, transform-origin (catalog/motion.md)

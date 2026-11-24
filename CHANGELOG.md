@@ -4,6 +4,13 @@ Every release of the Vibe Design Tips Skills. To update, see [INSTALL.md](INSTAL
 
 每次发布的改动。更新方法见 [INSTALL.md](INSTALL.md#update)。
 
+## 2026.11.24.4
+
+Add 024 Image Loading: procedural dot-matrix loading and reveals for generated images.
+
+- Added `kubai-image-loading` (024 Image Loading)
+- Updated `kubai-design-tips`: SKILL.md, catalog/effects.md, catalog/index.md, tips/024-image-loading.md
+
 ## 2026.11.24.3
 
 Tip 023: the full prompt again, with a shorter description

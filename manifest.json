@@ -1,12 +1,12 @@
 {
   "name": "vibedesign-skills",
-  "version": "2026.11.24.3",
+  "version": "2026.11.24.4",
   "released": "2026.11.24",
   "repository": "https://github.com/kubai087/vibedesign-skills",
   "skills": [
     {
       "name": "kubai-design-tips",
-      "tips": 23
+      "tips": 24
     },
     {
       "name": "kubai-skeuomorphic-buttons",
@@ -145,6 +145,12 @@
       "issue": "023",
       "tip": "Mobile web pages",
       "title": "让网页在手机上更好用"
+    },
+    {
+      "name": "kubai-image-loading",
+      "issue": "024",
+      "tip": "Image Loading",
+      "title": "生图点阵等待与出图"
     }
   ]
 }
