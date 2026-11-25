@@ -4,6 +4,13 @@ Every release of the Vibe Design Tips Skills. To update, see [INSTALL.md](INSTAL
 
 每次发布的改动。更新方法见 [INSTALL.md](INSTALL.md#update)。
 
+## 2026.11.26
+
+Add 025 hover timing
+
+- Added `kubai-hover-timing` (025 Hover timing)
+- Updated `kubai-design-tips`: SKILL.md, catalog/feedback.md, catalog/index.md, tips/025-hover-timing.md
+
 ## 2026.11.24.4
 
 Add 024 Image Loading: procedural dot-matrix loading and reveals for generated images.

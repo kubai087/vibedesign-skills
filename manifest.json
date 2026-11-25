@@ -1,12 +1,12 @@
 {
   "name": "vibedesign-skills",
-  "version": "2026.11.24.4",
-  "released": "2026.11.24",
+  "version": "2026.11.26",
+  "released": "2026.11.26",
   "repository": "https://github.com/kubai087/vibedesign-skills",
   "skills": [
     {
       "name": "kubai-design-tips",
-      "tips": 24
+      "tips": 25
     },
     {
       "name": "kubai-skeuomorphic-buttons",
@@ -151,6 +151,12 @@
       "issue": "024",
       "tip": "Image Loading",
       "title": "生图点阵等待与出图"
+    },
+    {
+      "name": "kubai-hover-timing",
+      "issue": "025",
+      "tip": "Hover timing",
+      "title": "悬停浮层的时间规则"
     }
   ]
 }

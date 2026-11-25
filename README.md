@@ -2,7 +2,7 @@
 
 Agent Skills from [Vibe Design Tips](https://vibedesign.tips), Kubai's series "999 tips to make your vibe-coded product feel crafted". Each tip is a design rule or an effect with a live demo; the Skills let Claude Code, Codex, Cursor and other AI coding tools apply them to your product.
 
-Version 2026.11.24.4. See [CHANGELOG.md](CHANGELOG.md) for what changed.
+Version 2026.11.26. See [CHANGELOG.md](CHANGELOG.md) for what changed.
 
 [中文说明](#中文)
 
@@ -73,6 +73,7 @@ git -C ~/.vibedesign-skills pull --ff-only
 | 022 | `kubai-empty-states` | Empty states | 空状态的诊断与改造 | [Demo](https://vibedesign.tips/022-empty-states/) |
 | 023 | `kubai-mobile-web` | Mobile web pages | 让网页在手机上更好用 | [Demo](https://vibedesign.tips/023-mobile-web/) |
 | 024 | `kubai-image-loading` | Image Loading | 生图点阵等待与出图 | [Demo](https://vibedesign.tips/024-image-loading/) |
+| 025 | `kubai-hover-timing` | Hover timing | 悬停浮层的时间规则 | [Demo](https://vibedesign.tips/025-hover-timing/) |
 
 ## 中文
 

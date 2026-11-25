@@ -35,3 +35,12 @@
 - Skip: Products where nothing is ever empty, and places that simply close or hide when empty (a notification tray that closes).
 - Demo: https://vibedesign.tips/022-empty-states/
 - Text: tips/022-empty-states.md (13.6k characters)
+
+## 025 Hover timing (rule)
+
+- Also called: 悬停浮层的时间规则, 悬停延时, 悬停时间, 悬停预览, 悬停卡片, 提示延迟, hover 延迟
+- Applies: Anything that opens on hover: tooltips on toolbars and icon buttons, hover cards for people, links and mentions, previews beside lists and file trees, link and image previews, navigation panels and submenus that open on hover.
+- Signals: Tooltip, HoverCard, Popover or Preview components; onMouseEnter or onPointerEnter handlers that open something; setTimeout used for hover open or close; Radix delayDuration, skipDelayDuration, openDelay or closeDelay; Floating UI useHover, safePolygon or useDelayGroup; tooltips that pop as the pointer crosses a toolbar; hover cards that close before the pointer reaches them.
+- Skip: Products with nothing that opens on hover, and touch-only apps.
+- Demo: https://vibedesign.tips/025-hover-timing/
+- Text: tips/025-hover-timing.md (7.3k characters)
